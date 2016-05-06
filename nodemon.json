@@ -1,0 +1,5 @@
+{
+  "verbose": false,
+  "ignore": ["*.test.js", "node_modules/*"],
+  "ext" : "js,es6"
+}

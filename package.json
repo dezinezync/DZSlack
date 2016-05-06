@@ -1,0 +1,22 @@
+{
+  "name": "dzslack",
+  "version": "1.0.0",
+  "description": "A Slack Incoming webhooks class for posting messages back to Slack from your NodeJS app.",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "incoming",
+    "webhook",
+    "es6",
+    "class"
+  ],
+  "author": "Nikhil Nigade (Dezine Zync Studios LLP.)",
+  "license": "MIT License"
+}
